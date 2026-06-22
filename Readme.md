@@ -170,6 +170,8 @@ To do this:
 
 This forces Proton to use ReShade's OpenGL DLL instead of Wine's built-in implementation.
 
+> **Note:** Tested on **CachyOS** using **Steam + Proton Experimental** on **Wayland**. Other setups may work, but are untested.
+
 ## Wayland Users
 
 If you are using Wayland, you may also need to run MX Bikes in **Borderless Fullscreen** mode.
@@ -178,4 +180,3 @@ In my testing, ReShade would not hook correctly when using exclusive fullscreen 
 
 > **Note:** I have not tested ReShade under X11, so your results may vary.
 
-> **Note:** Tested on **CachyOS** using **Steam + Proton Experimental** on **Wayland**. Other setups may work, but are untested.
