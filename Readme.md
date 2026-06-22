@@ -91,9 +91,8 @@ If you would also like to use ReShade with MX Bikes on Linux, follow the steps b
 
 First, download the ReShade installer from:
 
-```text
-https://reshade.me/#download
-```
+[ReShade](https://reshade.me/#download)
+
 
 After downloading the installer, add it to Steam as a **Non-Steam Game** and force it to use a Proton compatibility layer.
 
